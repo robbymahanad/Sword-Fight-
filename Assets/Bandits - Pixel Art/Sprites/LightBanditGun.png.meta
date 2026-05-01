@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: dff861852b1a9244993d0b989ef8377b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 875850592111902723
+    second: LightBanditGun_0
+  - first:
+      213: 8698523897173405776
+    second: LightBanditGun_1
+  - first:
+      213: -8952381935061475150
+    second: LightBanditGun_2
+  - first:
+      213: -6244046181574044987
+    second: LightBanditGun_3
+  - first:
+      213: 3141096214505075802
+    second: LightBanditGun_4
+  - first:
+      213: 1177234679979661996
+    second: LightBanditGun_5
+  - first:
+      213: 7817760631826289447
+    second: LightBanditGun_6
+  - first:
+      213: 6714417165880749284
+    second: LightBanditGun_7
+  - first:
+      213: -5841356878289773803
+    second: LightBanditGun_8
+  - first:
+      213: 190610107680632187
+    second: LightBanditGun_9
+  - first:
+      213: 2771576756690609718
+    second: LightBanditGun_10
+  - first:
+      213: -3917898590698085541
+    second: LightBanditGun_11
+  - first:
+      213: -6964731347981091910
+    second: LightBanditGun_12
+  - first:
+      213: -8757840518479089096
+    second: LightBanditGun_13
+  - first:
+      213: 3681282391707448753
+    second: LightBanditGun_14
+  - first:
+      213: -5597955399505340371
+    second: LightBanditGun_15
+  - first:
+      213: -4565027870202889918
+    second: LightBanditGun_16
+  - first:
+      213: -6150844782892856808
+    second: LightBanditGun_17
+  - first:
+      213: -2282107459107318680
+    second: LightBanditGun_18
+  - first:
+      213: 8236890095880287155
+    second: LightBanditGun_19
+  - first:
+      213: -1769584452977712594
+    second: LightBanditGun_20
+  - first:
+      213: -8962026147843085641
+    second: LightBanditGun_21
+  - first:
+      213: -4415746501890735864
+    second: LightBanditGun_22
+  - first:
+      213: -8636322300809250321
+    second: LightBanditGun_23
+  - first:
+      213: 8748757224339719550
+    second: LightBanditGun_24
+  - first:
+      213: -5362502007003991619
+    second: LightBanditGun_25
+  - first:
+      213: -5454953292155411997
+    second: LightBanditGun_26
+  - first:
+      213: -1990497239615160820
+    second: LightBanditGun_27
+  - first:
+      213: -6649285477556077525
+    second: LightBanditGun_28
+  - first:
+      213: 3328005671595411813
+    second: LightBanditGun_29
+  - first:
+      213: 3264559429867383310
+    second: LightBanditGun_30
+  - first:
+      213: 1973733141569214243
+    second: LightBanditGun_31
+  - first:
+      213: 8629136998031258995
+    second: LightBanditGun_32
+  - first:
+      213: -3792263660746383267
+    second: LightBanditGun_33
+  - first:
+      213: -3849586036528597486
+    second: LightBanditGun_34
+  - first:
+      213: -9167966474226021569
+    second: LightBanditGun_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LightBanditGun_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 209
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300452b1975a72c00800000000000000
+      internalID: 875850592111902723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBanditGun_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 209
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0507441d56d57b870800000000000000
+      internalID: 8698523897173405776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBanditGun_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 209
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b06903df00c2c380800000000000000
+      internalID: -8952381935061475150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBanditGun_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 209
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2152a8411b859a0800000000000000
+      internalID: -6244046181574044987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBanditGun_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 209
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5436e66d5a679b20800000000000000
+      internalID: 3141096214505075802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBanditGun_5
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 209
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa557544b0665010800000000000000
+      internalID: 1177234679979661996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBanditGun_6
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 209
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7231a07dfd34e7c60800000000000000
+      internalID: 7817760631826289447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBanditGun_7
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 209
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec6b1e76d66e2d50800000000000000
+      internalID: 6714417165880749284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBanditGun_8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 161
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bd0473ed45feea0800000000000000
+      internalID: -5841356878289773803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBanditGun_9
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 162
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d27ee02ee25a200800000000000000
+      internalID: 190610107680632187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBanditGun_10
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 161
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636e542306e967620800000000000000
+      internalID: 2771576756690609718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBanditGun_11
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 160
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53ef6b5df3d0a9c0800000000000000
+      internalID: -3917898590698085541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBanditGun_12
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 161
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb3f8f5dbd485f90800000000000000
+      internalID: -6964731347981091910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBanditGun_13
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 163
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832f7801376e57680800000000000000
+      internalID: -8757840518479089096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBanditGun_14
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 161
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b57f9bb4da861330800000000000000
+      internalID: 3681282391707448753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBanditGun_15
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 161
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28110039311052b0800000000000000
+      internalID: -5597955399505340371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBanditGun_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 113
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2497ccea653c5a0c0800000000000000
+      internalID: -4565027870202889918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBanditGun_17
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 113
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a4b1f224fc3aaa0800000000000000
+      internalID: -6150844782892856808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBanditGun_18
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 113
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86493a86b535450e0800000000000000
+      internalID: -2282107459107318680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBanditGun_19
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 113
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3b0eab6ef4f4270800000000000000
+      internalID: 8236890095880287155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBanditGun_20
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 113
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22a530d05c2177e0800000000000000
+      internalID: -1769584452977712594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBanditGun_21
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 113
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7baec0e83bc70a380800000000000000
+      internalID: -8962026147843085641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBanditGun_22
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 113
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80101a0c3fd18b2c0800000000000000
+      internalID: -4415746501890735864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBanditGun_23
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 113
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9fa76ef9e952880800000000000000
+      internalID: -8636322300809250321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBanditGun_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 65
+        width: 41
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75c6e6b754d96970800000000000000
+      internalID: 8748757224339719550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBanditGun_25
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 65
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1353d16d09495b0800000000000000
+      internalID: -5362502007003991619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBanditGun_26
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 65
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1aab2e1ec1c44b0800000000000000
+      internalID: -5454953292155411997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBanditGun_27
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 65
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0eb7528e455064e0800000000000000
+      internalID: -1990497239615160820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBanditGun_28
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 65
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c3b1c661ef8b3a0800000000000000
+      internalID: -6649285477556077525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBanditGun_29
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 65
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5690ee996837f2e20800000000000000
+      internalID: 3328005671595411813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBanditGun_30
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 65
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0aa56d418b0e4d20800000000000000
+      internalID: 3264559429867383310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBanditGun_31
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 65
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32716a0c5db146b10800000000000000
+      internalID: 1973733141569214243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBanditGun_32
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 17
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37575dd616ad0c770800000000000000
+      internalID: 8629136998031258995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBanditGun_33
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 17
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50e696fa4c2f5bc0800000000000000
+      internalID: -3792263660746383267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBanditGun_34
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 17
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216b86055e5839ac0800000000000000
+      internalID: -3849586036528597486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightBanditGun_35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 17
+        width: 45
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b411fc017d4c080800000000000000
+      internalID: -9167966474226021569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LightBanditGun_0: 875850592111902723
+      LightBanditGun_1: 8698523897173405776
+      LightBanditGun_10: 2771576756690609718
+      LightBanditGun_11: -3917898590698085541
+      LightBanditGun_12: -6964731347981091910
+      LightBanditGun_13: -8757840518479089096
+      LightBanditGun_14: 3681282391707448753
+      LightBanditGun_15: -5597955399505340371
+      LightBanditGun_16: -4565027870202889918
+      LightBanditGun_17: -6150844782892856808
+      LightBanditGun_18: -2282107459107318680
+      LightBanditGun_19: 8236890095880287155
+      LightBanditGun_2: -8952381935061475150
+      LightBanditGun_20: -1769584452977712594
+      LightBanditGun_21: -8962026147843085641
+      LightBanditGun_22: -4415746501890735864
+      LightBanditGun_23: -8636322300809250321
+      LightBanditGun_24: 8748757224339719550
+      LightBanditGun_25: -5362502007003991619
+      LightBanditGun_26: -5454953292155411997
+      LightBanditGun_27: -1990497239615160820
+      LightBanditGun_28: -6649285477556077525
+      LightBanditGun_29: 3328005671595411813
+      LightBanditGun_3: -6244046181574044987
+      LightBanditGun_30: 3264559429867383310
+      LightBanditGun_31: 1973733141569214243
+      LightBanditGun_32: 8629136998031258995
+      LightBanditGun_33: -3792263660746383267
+      LightBanditGun_34: -3849586036528597486
+      LightBanditGun_35: -9167966474226021569
+      LightBanditGun_4: 3141096214505075802
+      LightBanditGun_5: 1177234679979661996
+      LightBanditGun_6: 7817760631826289447
+      LightBanditGun_7: 6714417165880749284
+      LightBanditGun_8: -5841356878289773803
+      LightBanditGun_9: 190610107680632187
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
