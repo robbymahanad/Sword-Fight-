@@ -10,11 +10,13 @@ public class PlayerInput : MonoBehaviour
     private Vector2 moveDir;
     [SerializeField] PlayerMovement playerMovement;
     [SerializeField] Player player;
+    [SerializeField] private EventAnim animatorEvent;
 
     private void FixedUpdate()
     {
-        moveDir = moveAction.ReadValue<Vector2>();
+        SetMoveDir();
         playerMovement.PlayerMove(moveDir);
+        Debug.Log(moveDir);
     }
     private void OnEnable()
     {
@@ -26,6 +28,7 @@ public class PlayerInput : MonoBehaviour
     private void AttackAction_performed(InputAction.CallbackContext obj)
     {
         player.AttackAnim();
+        moveDir = Vector2.zero;
     }
 
     private void JumpAction_performed(InputAction.CallbackContext obj)
@@ -42,5 +45,16 @@ public class PlayerInput : MonoBehaviour
         moveAction = InputSystem.actions.FindAction("Move");
         jumpAction = InputSystem.actions.FindAction("Jump");
         attackAction = InputSystem.actions.FindAction("Attack");
+    }
+    private void SetMoveDir()
+    {
+        if (!animatorEvent.isBusy)
+        {
+            moveDir = moveAction.ReadValue<Vector2>();
+        }
+        else if (animatorEvent.isBusy)
+        {
+            moveDir = Vector2.zero;
+        }
     }
 }

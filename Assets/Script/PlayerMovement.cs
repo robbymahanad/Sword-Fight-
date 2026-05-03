@@ -43,12 +43,12 @@ public class PlayerMovement : MonoBehaviour
             transform.rotation = Quaternion.Euler(0, 180, 0);
             animator.SetInteger("AnimState", 2);
         }
-        if (!animatorEvent.isBusy)
-        {
-            rb.linearVelocity = new Vector2(moveDir.x * moveSpeed, rb.linearVelocityY);
-            Debug.Log("Is Busy = " + animatorEvent.isBusy);
-        }
-      
+        rb.linearVelocity = new Vector2(moveDir.x * moveSpeed, rb.linearVelocityY);
+        //if (!animatorEvent.isBusy)
+        //{
+        //    rb.linearVelocity = new Vector2(moveDir.x * moveSpeed, rb.linearVelocityY);
+        //}
+
     }
     public void PlayerJump()
     {
